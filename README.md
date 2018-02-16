@@ -13,6 +13,7 @@ To start the application, run the command
 
 ```
 npm run start
+npm run api
 ```
 To build the application, run the command
 
